@@ -6,21 +6,15 @@
 
 **MBBS | Intern Doctor at Dhaka Medical College Hospital | Clinical Researcher | Aspiring Physician–Scientist**
 
-![ORCID](https://img.shields.io/badge/ORCID-0009--0003--5585--9787-A6CE39?logo=orcid&logoColor=white)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--5585--9787-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0003-5585-9787)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumaya%20Mifty-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaya-mifty)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:sumayamifty96@gmail.com)
 ![MBBS](https://img.shields.io/badge/MBBS-Dhaka%20Medical%20College-blue)
 ![Current Role](https://img.shields.io/badge/Current%20Role-Intern%20Doctor-success)
 ![Research](https://img.shields.io/badge/Publications-4+-orange)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Learning-brightgreen)
-
----
-
-## 🩺 About Me
-
-I am an MBBS graduate from Dhaka Medical College and currently an Intern Doctor at Dhaka Medical College Hospital 
-
-MBBS | Aspiring Physician–Scientist | Clinical Researcher
 
 ---
 
@@ -87,9 +81,7 @@ Programming
 
 - R
 - Python (Learning)
-
-Statistics
-
+- Statistics
 - RStudio
 
 Research
